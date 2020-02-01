@@ -7,8 +7,6 @@ A JavaScript 30 Day Challenge from Wes Bos.
 
 <hr>
 
-## Note:
-
 | No  | Note                                                                                                             |
 | --- | ---------------------------------------------------------------------------------------------------------------- |
 | 1   | [JavaScript Drum Kit](https://github.com/Wangchimei/JS30-challenge/blob/master/01%20-%20JavaScript%20Drum%20Kit) |
