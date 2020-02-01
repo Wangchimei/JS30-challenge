@@ -1,6 +1,6 @@
 # 02 JS and CSS Clock
 
-## Steps
+## Key Points
 
 1. Set rotation onto clock hands
 2. Get current time
@@ -21,7 +21,7 @@
 - **new Date()**  
   creates a new Date object
 
-## Key Takeaways
+## Steps
 
 ### CSS
 
